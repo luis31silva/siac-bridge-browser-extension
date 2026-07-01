@@ -23,28 +23,25 @@ This enables automatic animal data lookup by microchip number without requiring 
 ## Installation Guide
 
 ### Google Chrome / Microsoft Edge
+Download or clone this repository
 
-1. Download or clone this repository
+1. Open Chrome and navigate to `chrome://extensions/`
 
-2. Open Chrome and navigate to `chrome://extensions/`
+2. Enable **Developer mode** (toggle in the top-right corner)
 
-3. Enable **Developer mode** (toggle in the top-right corner)
+3. Click **"Load unpacked"**
+
+4. Select the `siac-extension-chrome/` folder
+
+5. Click add.
 
 ![Chrome Developer Mode](docs/images/chrome-developer-mode.png)
 
-4. Click **"Load unpacked"**
-
-<!-- ![Chrome Load Unpacked](docs/images/chrome-load-unpacked.png) -->
-
-5. Select the `siac-extension-chrome/` folder
-
 6. The extension should now appear in your extensions list with the SIAC Token Bridge icon
-
-<!-- ![Chrome Extension Installed](docs/images/chrome-installed.png) -->
 
 7. Pin the extension to the toolbar for easy access (click the puzzle icon, then the pin)
 
-<!-- ![Chrome Pin Extension](docs/images/chrome-pin-extension.png) -->
+![Chrome Pin Extension](docs/images/chrome-pin-extension.png)
 
 ---
 
