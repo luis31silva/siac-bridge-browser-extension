@@ -30,7 +30,7 @@ This enables automatic animal data lookup by microchip number without requiring 
 
 3. Enable **Developer mode** (toggle in the top-right corner)
 
-<!-- ![Chrome Developer Mode](docs/images/chrome-developer-mode.png) -->
+[Chrome Developer Mode](docs/images/chrome-developer-mode.png)
 
 4. Click **"Load unpacked"**
 
